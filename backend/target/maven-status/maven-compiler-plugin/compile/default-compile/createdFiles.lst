@@ -1,0 +1,13 @@
+com/reservas/repository/ReservaRepository.class
+com/reservas/repository/UsuarioRepository.class
+com/reservas/model/Reserva.class
+com/reservas/service/JwtService.class
+com/reservas/controller/ReservaController.class
+com/reservas/config/CorsConfig.class
+com/reservas/model/ReservaRestaurante.class
+com/reservas/model/Usuario.class
+com/reservas/model/ReservaHotel.class
+com/reservas/controller/AuthController.class
+com/reservas/ReservasApplication.class
+com/reservas/config/SecurityConfig.class
+com/reservas/model/ReservaVuelo.class
